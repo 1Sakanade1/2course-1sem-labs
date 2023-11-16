@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrintExemplar>
+  <Book name="Idiot">
+    <Author>Dostoevskii</Author>
+    <price>40000</price>
+  </Book>
+  <WorkBook name="Math">
+    <Author>workbookAuthor</Author>
+    <price>15000</price>
+  </WorkBook>
+</PrintExemplar>

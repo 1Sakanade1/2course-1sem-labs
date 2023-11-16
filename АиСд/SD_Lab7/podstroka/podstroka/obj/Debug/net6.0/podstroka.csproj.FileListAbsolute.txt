@@ -1,0 +1,30 @@
+C:\Users\37533\Desktop\podstroka\podstroka\bin\Debug\net6.0\podstroka.exe
+C:\Users\37533\Desktop\podstroka\podstroka\bin\Debug\net6.0\podstroka.deps.json
+C:\Users\37533\Desktop\podstroka\podstroka\bin\Debug\net6.0\podstroka.runtimeconfig.json
+C:\Users\37533\Desktop\podstroka\podstroka\bin\Debug\net6.0\podstroka.dll
+C:\Users\37533\Desktop\podstroka\podstroka\bin\Debug\net6.0\podstroka.pdb
+C:\Users\37533\Desktop\podstroka\podstroka\obj\Debug\net6.0\podstroka.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\podstroka\podstroka\obj\Debug\net6.0\podstroka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37533\Desktop\podstroka\podstroka\obj\Debug\net6.0\podstroka.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\podstroka\podstroka\obj\Debug\net6.0\podstroka.AssemblyInfo.cs
+C:\Users\37533\Desktop\podstroka\podstroka\obj\Debug\net6.0\podstroka.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\podstroka\podstroka\obj\Debug\net6.0\podstroka.dll
+C:\Users\37533\Desktop\podstroka\podstroka\obj\Debug\net6.0\refint\podstroka.dll
+C:\Users\37533\Desktop\podstroka\podstroka\obj\Debug\net6.0\podstroka.pdb
+C:\Users\37533\Desktop\podstroka\podstroka\obj\Debug\net6.0\podstroka.genruntimeconfig.cache
+C:\Users\37533\Desktop\podstroka\podstroka\obj\Debug\net6.0\ref\podstroka.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\bin\Debug\net6.0\podstroka.exe
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\bin\Debug\net6.0\podstroka.deps.json
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\bin\Debug\net6.0\podstroka.runtimeconfig.json
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\bin\Debug\net6.0\podstroka.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\bin\Debug\net6.0\podstroka.pdb
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\obj\Debug\net6.0\podstroka.csproj.AssemblyReference.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\obj\Debug\net6.0\podstroka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\obj\Debug\net6.0\podstroka.AssemblyInfoInputs.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\obj\Debug\net6.0\podstroka.AssemblyInfo.cs
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\obj\Debug\net6.0\podstroka.csproj.CoreCompileInputs.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\obj\Debug\net6.0\podstroka.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\obj\Debug\net6.0\refint\podstroka.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\obj\Debug\net6.0\podstroka.pdb
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\obj\Debug\net6.0\podstroka.genruntimeconfig.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab7\podstroka\podstroka\obj\Debug\net6.0\ref\podstroka.dll

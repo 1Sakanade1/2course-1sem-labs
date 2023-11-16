@@ -1,0 +1,4 @@
+﻿  LexAnalysis.cpp
+C:\Container\code\2курс лабы\KPO\Lab20_final\Lab20\Lab20\LexAnalysis.cpp(80,21): warning C4305: =: усечение из "int" в "char"
+C:\Container\code\2курс лабы\KPO\Lab20_final\Lab20\Lab20\LexAnalysis.cpp(80,17): warning C4309: =: усечение константного значения
+  Lab20.vcxproj -> C:\Container\code\2курс лабы\KPO\Lab20_final\Lab20\Debug\Lab20.exe

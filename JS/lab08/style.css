@@ -1,0 +1,266 @@
+/* -----  google Font  -----*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
+
+body {
+ margin: 0;
+ padding: 0;
+ font-family: Roboto, sans-serif;
+ background-image: url('fon.jpg');
+ -webkit-background-size: cover;
+ background-size: cover;
+}
+
+/* -----  Выравнивание по середине  -----*/
+.dws-wrapper {
+ display: flex;
+ height: 100vh;
+ justify-content: center;
+ align-items: center;
+}
+
+.dws-form {
+ background-color: rgba(255, 255, 255, 0.2);
+ padding: 10px;
+ width: 330px;
+}
+.dws-form a {
+ text-decoration: none;
+ transition: .5s;
+}
+.dws-form a:hover {
+ color: black;
+}
+.dws-form ul {
+ list-style: none;
+ padding: 0;
+ margin: 0;
+}
+.dws-form input {
+ display: block;
+ width: 100%;
+}
+.tab::before{
+    content: "\f090";
+    font-family:'FontAwesome',sans-serif;
+    font-size: 24px;
+    margin-right: 11px;
+    font-weight: normal;
+
+}
+.tab[for*='2']::before{
+    content: "\f234";
+}
+
+
+.tab-form {
+ background-color: #fff;
+ display: none;
+}
+.tab-form.active{
+    display: block;
+}
+label.tab {
+ color: #ffffff;
+ font-weight: 600;
+ padding: 15px;
+ display: inline-block;
+ border-radius: 3px 3px 0 0;
+ margin-bottom: -1px;
+ cursor: pointer;
+}
+label.tab.active {
+ background-color: #fff;
+ color: #1d5f75;
+}
+.inputBox{
+    position: relative;
+    margin: 0 0 20px;
+    padding-left: 10px;
+}
+.LabelText{
+    position: absolute;
+    line-height: 55px;
+    font-size:18px;
+    color:#a5a5a5;
+    transition:1s;
+}
+.focus .LabelText{
+    transform: translate(0,-20px);
+    font-size: 14px;
+    color: rgb(66, 173, 215);
+}
+.tab2{
+    position: relative;
+    background: transparent;    /*Прозрачность*/
+    width: 100%;
+    height: 50px;
+    font-size:20px;
+    color:#574454;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #a5a5a5;
+}
+.button{
+    display: inline-block;
+    width:78%;
+    margin-bottom: 10px;
+    height: 35px;
+    font-size: 18px;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: 1s;
+    text-align: center;
+    margin-left: 10%;
+    border-radius: 4px;
+    background-color: #36d2ff;
+    color: #298cad;
+    padding-top: 10px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    border-bottom: 4px solid hsl(90, 41%, 46%);
+    
+}
+.button::before,.button::after{
+    content:"";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: #27bfdc;
+    position: absolute;
+    top:0;
+    left:-100%;
+    transition: 1s;
+    z-index: -1;
+}
+.button::after{
+    background-color: #1d5f75;
+    top:100%;
+    left:0%;
+}
+.button:hover::before{
+    left: 0;
+}
+.button:hover::after{
+    top: 0;
+}
+.icons{
+    display:flex;
+    justify-content: space-between;
+    font-size: 24px;
+}
+.icons a{
+    width: 40px;
+    height: 40px;
+    display: block;
+    line-height:40px;
+    text-align: center;
+    position: relative;
+}
+ /*верхняя и нижняя полосы*/
+.icons li a::before,
+.icons li a::after{
+    content: "";
+    position: absolute;
+    background:#2fbae1;
+    width: 100%;
+    height: 1px;
+    left: 0;
+    transition: transform .5s;
+    transform:scaleY(0);
+}
+.icons li a::before{
+    transform-origin: right;
+}
+.icons li a::after{
+    transform-origin: left;
+}
+.icons li a:hover::before{
+    transform: scaleX(0);
+    transform-origin: left;
+}
+.icons li a:hover::after{
+    transform: scaleX(0);
+    transform-origin: right;
+}
+/*правая и левая полосы*/
+.icons li a div::before,
+.icons li a div::after{
+    content: "";
+    position: absolute;
+    background:#2fbae1;
+    width: 1px;
+    height: 100%;
+    transition: transform .5s;
+    transform:scaleY(0);
+}
+
+.icons li a div::before{
+    left: 0;
+    transform-origin: bottom;
+}
+.icons li a div::after{
+    right: 0;
+    transform-origin: top;
+}
+
+.icons li a:hover div::before{
+    transform: scaleY(1);
+    transform-origin: top;
+}
+
+.icons li a:hover div::after{
+    transform: scaleY(1);
+    transform-origin: bottom;
+}
+.reg{
+    display: block;
+    padding-bottom: 15px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.del {
+    display: none;
+}
+.recover{
+    margin-left: 10px;
+    padding-bottom:15px;
+    margin-top: 15px;
+    font-size: 12px;
+}
+label[for="ckbox"]{
+    cursor: pointer;
+    padding-left: 35px;
+    width: 260px;
+    display: block;
+    position: relative;
+}
+label[for="ckbox"]::before{
+    content: "";
+    position: absolute;
+    border: 2px solid black;
+    width: 18px;
+    height: 18px;
+    top:0;
+    left: 0;
+    border-radius: 3px;
+    transition: .2s;
+}
+#ckbox:checked+label::before{
+    border-top: 2px solid transparent;
+    border-left: 2px solid transparent;
+    border-right: 2px solid #408cc2;
+    border-bottom: 2px solid #408cc2;
+    transform: rotate(40deg);
+    width: 12px;
+    height: 22px;
+    transform-origin:100% 100%;
+    top: -4px;
+    left:-5px;
+
+}
+#ckbox:not(:checked),
+#ckbox:checked{
+    display: none;
+}

@@ -1,0 +1,5 @@
+﻿  murav.cpp
+C:\Container\code\2курс лабы\АиСд\Lab_10sol\Lab_10\murav.cpp(70,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Container\code\2курс лабы\АиСд\Lab_10sol\Lab_10\murav.cpp(93,86): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Container\code\2курс лабы\АиСд\Lab_10sol\Lab_10\murav.cpp(111,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab_10.vcxproj -> C:\Container\code\2курс лабы\АиСд\Lab_10sol\x64\Debug\Lab_10.exe

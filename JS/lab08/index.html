@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Форма для авторизации</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="style.css" type="text/css">
+    <script src="lab08.js"></script>
+</head>
+<body>
+<main class="dws-wrapper">
+	<div class="dws-form">
+		<label class="tab" title="Вкладка 1" for="tab-1">Авторизация</label>
+		<label class="tab" title="Вкладка 2" for="tab-2">Регистрация</label>
+
+		<form class="tab-form" action = "#" method = "post">
+			<div class="inputBox">
+				<label class="LabelText">Введите E-mail</label>
+				<input class="tab2" type="email" required>
+			</div>
+			<div class="inputBox">
+				<label class="LabelText">Введите пароль</label>
+				<input class="tab2" type="password" required>
+			</div>
+			
+			<a href="#" class="button">Войти</a>
+			<ul class="icons">
+				<li><a href="#"><div><i class="fa fa-facebook"></div></i></a></li>
+				<li><a href="#"><div><i class="fa fa-twitter"></div></i></a></li>
+				<li><a href="#"><div><i class="fa fa-instagram"></div></i></a></li>
+				<li><a href="#"><div><i class="fa fa-vk"></div></i></a></li>
+				<li><a href="#"><div><i class="fa fa-youtube"></div></i></a></li>
+			</ul>
+			<a href="#" class="reg">Я забыл свой E-mail или пароль</a>
+		</form>
+
+		<form class="tab-form active" action = "#" method = "post">
+			<div class="inputBox" id ="surnamebox">
+				<label class="LabelText">Фамилия</label>
+				<input class="tab2" id="surname" type="text" required>
+			</div>
+			<div class="inputBox">
+				<label class="LabelText">Имя</label>
+				<input class="tab2" id="name" type="text" required>
+			</div>
+			<div class="inputBox">
+				<label class="LabelText">Дата рождения</label>
+				<input class="tab2" id="birthdate" type="email" required>
+			</div>
+			<div class="inputBox">
+				<label class="LabelText">Email</label>
+				<input class="tab2" type="email" required>
+			</div>
+			<div class="inputBox">
+				<label class="LabelText">Введите пароль</label>
+				<input class="tab2" type="password" required>
+			</div>
+			
+			<a href="#" id="register" class="button">Регистрация</a>
+
+			<div class="recover">
+				<input type="checkbox" class="checkbox" id="ckbox">
+				<label for="ckbox">Ознакомлен(-а) и принимаю<a href="#"> условия пользования</a></label>
+			</div>
+		</form>
+
+	</div>
+</main>
+<script>
+	//элемент получает фокус, когда пользователь нажимает на поле(вызыв в момент фокусировки)
+	$(".tab2").focus(function(){
+    	$(this).parent().addClass("focus");
+	}).blur(function(){//вызывается когда элемент теряет фокус
+		if($(this).val()===''){
+			$(this).parent().removeClass("focus")
+		}
+	})
+</script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+﻿  Assembling LP_asm.asm...
+LP_asm.asm(34): warning A4000: cannot modify READONLY segment
+  SE_Asm02.vcxproj -> C:\Container\code\2курс лабы\assembler\SE_Asm02\Debug\SE_Asm02.exe

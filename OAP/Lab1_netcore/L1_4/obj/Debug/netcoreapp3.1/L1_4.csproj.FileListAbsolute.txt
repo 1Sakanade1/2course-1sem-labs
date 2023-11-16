@@ -1,0 +1,14 @@
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\bin\Debug\netcoreapp3.1\L1_4.exe
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\bin\Debug\netcoreapp3.1\L1_4.deps.json
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\bin\Debug\netcoreapp3.1\L1_4.runtimeconfig.json
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\bin\Debug\netcoreapp3.1\L1_4.runtimeconfig.dev.json
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\bin\Debug\netcoreapp3.1\L1_4.dll
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\bin\Debug\netcoreapp3.1\L1_4.pdb
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\obj\Debug\netcoreapp3.1\L1_4.csproj.AssemblyReference.cache
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\obj\Debug\netcoreapp3.1\L1_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\obj\Debug\netcoreapp3.1\L1_4.AssemblyInfoInputs.cache
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\obj\Debug\netcoreapp3.1\L1_4.AssemblyInfo.cs
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\obj\Debug\netcoreapp3.1\L1_4.csproj.CoreCompileInputs.cache
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\obj\Debug\netcoreapp3.1\L1_4.dll
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\obj\Debug\netcoreapp3.1\L1_4.pdb
+E:\2курс лабы\OAP\Lab1_netcore\L1_4\obj\Debug\netcoreapp3.1\L1_4.genruntimeconfig.cache

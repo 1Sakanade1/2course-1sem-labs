@@ -1,0 +1,16 @@
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\bin\Debug\net5.0\DelegateResearch.exe
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\bin\Debug\net5.0\DelegateResearch.deps.json
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\bin\Debug\net5.0\DelegateResearch.runtimeconfig.json
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\bin\Debug\net5.0\DelegateResearch.runtimeconfig.dev.json
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\bin\Debug\net5.0\DelegateResearch.dll
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\bin\Debug\net5.0\ref\DelegateResearch.dll
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\bin\Debug\net5.0\DelegateResearch.pdb
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\obj\Debug\net5.0\DelegateResearch.csproj.AssemblyReference.cache
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\obj\Debug\net5.0\DelegateResearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\obj\Debug\net5.0\DelegateResearch.AssemblyInfoInputs.cache
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\obj\Debug\net5.0\DelegateResearch.AssemblyInfo.cs
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\obj\Debug\net5.0\DelegateResearch.csproj.CoreCompileInputs.cache
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\obj\Debug\net5.0\DelegateResearch.dll
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\obj\Debug\net5.0\ref\DelegateResearch.dll
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\obj\Debug\net5.0\DelegateResearch.pdb
+E:\2курс лабы\OAP\DelegateResearch\DelegateResearch\obj\Debug\net5.0\DelegateResearch.genruntimeconfig.cache

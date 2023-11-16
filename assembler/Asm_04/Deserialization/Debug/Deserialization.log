@@ -1,0 +1,19 @@
+﻿Сборка начата 24.10.2022 23:50:59.
+Уровень детализации журнала: Normal.     1>Проект "E:\2курс лабы\assembler\Asm_04\Deserialization\Deserialization.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Deserialization.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Deserialization.vcxproj -> E:\2курс лабы\assembler\Asm_04\Debug\Deserialization.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Deserialization.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Deserialization.tlog\Deserialization.lastbuildstate".
+     1>Сборка проекта "E:\2курс лабы\assembler\Asm_04\Deserialization\Deserialization.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.08

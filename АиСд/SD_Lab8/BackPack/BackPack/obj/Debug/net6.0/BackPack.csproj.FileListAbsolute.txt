@@ -1,0 +1,30 @@
+C:\Users\37533\Desktop\BackPack\BackPack\bin\Debug\net6.0\BackPack.exe
+C:\Users\37533\Desktop\BackPack\BackPack\bin\Debug\net6.0\BackPack.deps.json
+C:\Users\37533\Desktop\BackPack\BackPack\bin\Debug\net6.0\BackPack.runtimeconfig.json
+C:\Users\37533\Desktop\BackPack\BackPack\bin\Debug\net6.0\BackPack.dll
+C:\Users\37533\Desktop\BackPack\BackPack\bin\Debug\net6.0\BackPack.pdb
+C:\Users\37533\Desktop\BackPack\BackPack\obj\Debug\net6.0\BackPack.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\BackPack\BackPack\obj\Debug\net6.0\BackPack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37533\Desktop\BackPack\BackPack\obj\Debug\net6.0\BackPack.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\BackPack\BackPack\obj\Debug\net6.0\BackPack.AssemblyInfo.cs
+C:\Users\37533\Desktop\BackPack\BackPack\obj\Debug\net6.0\BackPack.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\BackPack\BackPack\obj\Debug\net6.0\BackPack.dll
+C:\Users\37533\Desktop\BackPack\BackPack\obj\Debug\net6.0\refint\BackPack.dll
+C:\Users\37533\Desktop\BackPack\BackPack\obj\Debug\net6.0\BackPack.pdb
+C:\Users\37533\Desktop\BackPack\BackPack\obj\Debug\net6.0\BackPack.genruntimeconfig.cache
+C:\Users\37533\Desktop\BackPack\BackPack\obj\Debug\net6.0\ref\BackPack.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\bin\Debug\net6.0\BackPack.exe
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\bin\Debug\net6.0\BackPack.deps.json
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\bin\Debug\net6.0\BackPack.runtimeconfig.json
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\bin\Debug\net6.0\BackPack.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\bin\Debug\net6.0\BackPack.pdb
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\obj\Debug\net6.0\BackPack.csproj.AssemblyReference.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\obj\Debug\net6.0\BackPack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\obj\Debug\net6.0\BackPack.AssemblyInfoInputs.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\obj\Debug\net6.0\BackPack.AssemblyInfo.cs
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\obj\Debug\net6.0\BackPack.csproj.CoreCompileInputs.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\obj\Debug\net6.0\BackPack.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\obj\Debug\net6.0\refint\BackPack.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\obj\Debug\net6.0\BackPack.pdb
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\obj\Debug\net6.0\BackPack.genruntimeconfig.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab8\BackPack\BackPack\obj\Debug\net6.0\ref\BackPack.dll

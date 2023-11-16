@@ -1,0 +1,20 @@
+﻿Сборка начата 23.09.2022 15:28:43.
+Уровень детализации журнала: Normal.     1>Проект "E:\2курс лабы\АиСд\Laba2\Laba2\Laba2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Laba2.tlog\unsuccessfulbuild".
+       ClCompile:
+         E:\visual studio_sreda\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         E:\visual studio_sreda\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\2курс лабы\АиСд\Laba2\Debug\Laba2.exe" /INCREMENTAL /ILK:"Debug\Laba2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\2курс лабы\АиСд\Laba2\Debug\Laba2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\2курс лабы\АиСд\Laba2\Debug\Laba2.lib" /MACHINE:X86 Debug\Source.obj
+         Laba2.vcxproj -> E:\2курс лабы\АиСд\Laba2\Debug\Laba2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Laba2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Laba2.tlog\Laba2.lastbuildstate".
+     1>Сборка проекта "E:\2курс лабы\АиСд\Laba2\Laba2\Laba2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.57

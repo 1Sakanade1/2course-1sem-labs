@@ -1,0 +1,27 @@
+﻿Сборка начата 31.10.2022 18:30:55.
+Уровень детализации журнала: Normal.     1>Проект "E:\2курс лабы\assembler\ASM_Lab18\SE_Asm01a\SE_Asm01a.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "Debug\SE_Asm01a.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\SE_Asm01a.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+         Assembling SE_Asm01a.asm...
+         cmd.exe /C "C:\Users\admin\AppData\Local\Temp\tmp6edecda0536645669b009293458dee96.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\SE_Asm01a.obj" /W3 /errorReport:prompt  /TaSE_Asm01a.asm
+       ClCompile:
+         E:\visual studio_sreda\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"pch.h" /Fp"Debug\SE_Asm01a.pch" /Fo"Debug\\" /Fd"E:\2курс лабы\assembler\ASM_Lab18\Debug\SE_Asm01a.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt pch.cpp
+         pch.cpp
+       Lib:
+         E:\visual studio_sreda\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\Lib.exe /OUT:"E:\2курс лабы\assembler\ASM_Lab18\Debug\SE_Asm01a.lib" /NOLOGO /MACHINE:X86 Debug\pch.obj
+         Debug\SE_Asm01a.obj
+         SE_Asm01a.vcxproj -> E:\2курс лабы\assembler\ASM_Lab18\Debug\SE_Asm01a.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Asm01a.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Asm01a.tlog\SE_Asm01a.lastbuildstate".
+     1>Сборка проекта "E:\2курс лабы\assembler\ASM_Lab18\SE_Asm01a\SE_Asm01a.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.60

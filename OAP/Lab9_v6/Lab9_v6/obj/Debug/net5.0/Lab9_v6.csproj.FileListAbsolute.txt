@@ -1,0 +1,16 @@
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\bin\Debug\net5.0\Lab9_v6.exe
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\bin\Debug\net5.0\Lab9_v6.deps.json
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\bin\Debug\net5.0\Lab9_v6.runtimeconfig.json
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\bin\Debug\net5.0\Lab9_v6.runtimeconfig.dev.json
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\bin\Debug\net5.0\Lab9_v6.dll
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\bin\Debug\net5.0\ref\Lab9_v6.dll
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\bin\Debug\net5.0\Lab9_v6.pdb
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\obj\Debug\net5.0\Lab9_v6.csproj.AssemblyReference.cache
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\obj\Debug\net5.0\Lab9_v6.GeneratedMSBuildEditorConfig.editorconfig
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\obj\Debug\net5.0\Lab9_v6.AssemblyInfoInputs.cache
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\obj\Debug\net5.0\Lab9_v6.AssemblyInfo.cs
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\obj\Debug\net5.0\Lab9_v6.csproj.CoreCompileInputs.cache
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\obj\Debug\net5.0\Lab9_v6.dll
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\obj\Debug\net5.0\ref\Lab9_v6.dll
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\obj\Debug\net5.0\Lab9_v6.pdb
+E:\2курс лабы\OAP\Lab9_v6\Lab9_v6\obj\Debug\net5.0\Lab9_v6.genruntimeconfig.cache

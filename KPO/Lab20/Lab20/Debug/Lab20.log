@@ -1,0 +1,136 @@
+﻿  Error.cpp
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2059: синтаксическая ошибка: }
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  FST.cpp
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2059: синтаксическая ошибка: }
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\FST.cpp(62,37): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  In.cpp
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2059: синтаксическая ошибка: }
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  IT.cpp
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2059: синтаксическая ошибка: }
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\IT.cpp(79,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\IT.cpp(99,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+  Lab20.cpp
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2059: синтаксическая ошибка: }
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(7,5): error C2653: Log: не является именем класса или пространства имен
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(7,10): error C2065: LOG: необъявленный идентификатор
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(7,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "log"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(7,20): error C2653: Log: не является именем класса или пространства имен
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(7,25): error C2065: INITLOG: необъявленный идентификатор
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(7,18): error C2659: =: функция в качестве левого операнда
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(12,15): error C2653: Log: не является именем класса или пространства имен
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(12,20): error C3861: getlog: идентификатор не найден
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(12,13): error C2659: =: функция в качестве левого операнда
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(14,9): error C2653: Log: не является именем класса или пространства имен
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(14,14): error C3861: WriteLine: идентификатор не найден
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(15,9): error C2653: Log: не является именем класса или пространства имен
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(15,14): error C3861: WriteLine: идентификатор не найден
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(16,9): error C2653: Log: не является именем класса или пространства имен
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(16,14): error C3861: WriteLog: идентификатор не найден
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(17,9): error C2653: Log: не является именем класса или пространства имен
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(17,14): error C3861: WriteParm: идентификатор не найден
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(19,13): error C3861: WriteIn: идентификатор не найден
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(31,9): error C2653: Log: не является именем класса или пространства имен
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(31,14): error C3861: Close: идентификатор не найден
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(36,9): error C2653: Log: не является именем класса или пространства имен
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Lab20.cpp(36,14): error C3861: WriteError: идентификатор не найден
+  Log.cpp
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2059: синтаксическая ошибка: }
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(5,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(5,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "getlog"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(6,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(6,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(16,7): error C2182: "WriteLine": недопустимое использование "void"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(16,21): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "log"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(17,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(17,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(24,7): error C2182: "WriteLine": недопустимое использование "void"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(24,7): error C2374: Log::WriteLine: переопределение; множественная инициализация
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(16,7): message : см. объявление "Log::WriteLine"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(24,21): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "log"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(25,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(25,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(36,7): error C2182: "WriteLog": недопустимое использование "void"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(36,20): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "log"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(36,25): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(36,25): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(47,7): error C2182: "WriteParm": недопустимое использование "void"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(47,21): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "log"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(47,43): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(47,43): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(60,7): error C2182: "WriteIn": недопустимое использование "void"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(60,19): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "log"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(60,35): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(60,35): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(67,7): error C2182: "WriteError": недопустимое использование "void"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(67,22): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "log"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(68,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(68,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(81,7): error C2182: "Close": недопустимое использование "void"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(81,17): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "log"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(81,22): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.cpp(81,22): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  LT.cpp
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2059: синтаксическая ошибка: }
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  Out.cpp
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2059: синтаксическая ошибка: }
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(34,7): error C3551: если используется завершающий возвращаемый тип, то начальный возвращаемый тип будет одним спецификатором типа "auto" (не "перегруженный тип функции")
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(34,7): error C3484: синтаксическая ошибка: требуется "->" перед возвращающим типом
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(34,8): error C3613: отсутствует тип возвращаемого значения после "->" (предполагается int)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(34,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(34,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "stream"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(37,7): error C2182: "WriteIn": недопустимое использование "void"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(37,15): error C2065: OUT: необъявленный идентификатор
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(37,19): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "out"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(38,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(38,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(42,7): error C2182: "WriteError": недопустимое использование "void"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(42,18): error C2065: OUT: необъявленный идентификатор
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(42,22): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "out"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(43,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(43,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(54,7): error C2182: "Close": недопустимое использование "void"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(54,13): error C2065: OUT: необъявленный идентификатор
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(54,17): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "out"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(54,22): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(54,22): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(58,1): error C2059: синтаксическая ошибка: }
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Out.cpp(58,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+  Parm.cpp
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2059: синтаксическая ошибка: }
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.cpp(36,23): error C2065: PARM_OUT_DEFAULT_EXT: необъявленный идентификатор
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.cpp(41,23): error C2065: PARM_LOG_DEFAULT_EXT: необъявленный идентификатор
+  LexAnalysis.cpp
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2059: синтаксическая ошибка: }
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Parm.h(23,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\Log.h(5,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\LexAnalysis.cpp(80,21): warning C4305: =: усечение из "int" в "char"
+C:\Container\code\2курс лабы\KPO\Lab20\Lab20\LexAnalysis.cpp(80,17): warning C4309: =: усечение константного значения
+  Создание кода...

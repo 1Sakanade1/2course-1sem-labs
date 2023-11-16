@@ -1,0 +1,19 @@
+﻿Сборка начата 01.11.2022 14:17:25.
+Уровень детализации журнала: Normal.     1>Проект "E:\2курс лабы\KPO\Lab17\SE_asm01a\SE_asm01a.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\SE_asm01a.tlog\unsuccessfulbuild".
+       Lib:
+         E:\visual studio_sreda\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\Lib.exe /OUT:"E:\2курс лабы\KPO\Lab17\Debug\SE_asm01a.lib" /NOLOGO /MACHINE:X86 SE_asm01lib.asm
+     1>SE_asm01lib.asm : fatal error LNK1107: недопустимый или поврежденный файл: не удается прочитать по 0x2FA
+     1>Сборка проекта "E:\2курс лабы\KPO\Lab17\SE_asm01a\SE_asm01a.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "E:\2курс лабы\KPO\Lab17\SE_asm01a\SE_asm01a.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Lib) -> 
+         SE_asm01lib.asm : fatal error LNK1107: недопустимый или поврежденный файл: не удается прочитать по 0x2FA
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00.33

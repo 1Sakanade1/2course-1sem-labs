@@ -1,0 +1,24 @@
+﻿Сборка начата 31.10.2022 19:09:12.
+Уровень детализации журнала: Normal.     1>Проект "E:\2курс лабы\KPO\Lab17\Lab17\Lab17.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "E:\2курс лабы\KPO\Lab17\Debug\".
+         Создание каталога "Debug\Lab17.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\Lab17.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+         Assembling SE_asm01.asm...
+         cmd.exe /C "C:\Users\admin\AppData\Local\Temp\tmpc3899696ec4a49119e17da1c325f6103.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\SE_asm01.obj" /Fl"Debug\\" /W3 /errorReport:prompt  /TaSE_asm01.asm
+       Link:
+         E:\visual studio_sreda\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\2курс лабы\KPO\Lab17\Debug\Lab17.exe" /INCREMENTAL /ILK:"Debug\Lab17.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\2курс лабы\KPO\Lab17\Debug\Lab17.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\2курс лабы\KPO\Lab17\Debug\Lab17.lib" /MACHINE:X86 Debug\SE_asm01.obj
+         Lab17.vcxproj -> E:\2курс лабы\KPO\Lab17\Debug\Lab17.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab17.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab17.tlog\Lab17.lastbuildstate".
+     1>Сборка проекта "E:\2курс лабы\KPO\Lab17\Lab17\Lab17.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.98

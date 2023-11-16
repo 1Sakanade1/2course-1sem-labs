@@ -1,0 +1,133 @@
+Microsoft (R) Macro Assembler Version 14.29.30133.0	    10/18/22 16:32:33
+SE_Asm03.asm						     Page 1 - 1
+
+
+				.586P														; система команд (процессор Pentium)
+				.MODEL FLAT, STDCALL										; плоская модель памяти, стандартное соглашение о вызове
+				includelib kernel32.lib										; компановщику: компоновать с kernel32
+
+				ExitProcess PROTO : DWORD									; прототип функции для завершения процесса Windows
+
+				.STACK 4096													
+
+ 00000000			.CONST														
+
+ 00000000			.DATA														
+ = 00000000			MB_OK	EQU	0												; EQU определяет константу
+
+ 00000000 10 20 30 40		myBytes		BYTE	10h, 20h, 30h, 40h
+ 00000004 008A 003B 0044	myWords		WORD	8Ah, 3Bh, 44h, 5Fh, 99h
+	   005F 0099
+ 0000000E 00000001		myDoubles	DWORD	1, 2, 3, 4, 5, 6
+	   00000002
+	   00000003
+	   00000004
+	   00000005
+	   00000006
+ 00000026 0000000E R		myPointer	DWORD	myDoubles
+
+ 0000002A 00000001		massive		DWORD	1, 2, 0, 4, 5, 6, 7
+	   00000002
+	   00000000
+	   00000004
+	   00000005
+	   00000006
+	   00000007
+ 00000046 00000000		sumcounter  DWORD	0
+
+					
+
+ 00000000			.CODE														; сегмент кода		
+
+ 00000000			main PROC													; точка фхода main
+ 00000000			START	:													
+
+ 00000000  BE 00000000 R	mov ESI, OFFSET myBytes
+ 00000005  8A 26		mov AH, [ESI]
+ 00000007  8A 46 02		mov AL, [ESI + 2]											; начало третьего задания с массивом
+ 0000000A  BB 00000001		mov EBX, 1
+ 0000000F  BE 0000002A R	mov ESI, OFFSET massive
+ 00000014  B9 00000007			mov ECX, lengthof massive								; задаем значение для цикла
+ 00000019			MASSIVCHECK:
+ 00000019  8B 06			mov EAX, [ESI]									
+ 0000001B  01 05 00000046 R			add sumcounter, EAX							
+ 00000021  83 C6 04			add ESI, type massive									; +4 байт
+
+ 00000024  E2 F3			loop MASSIVCHECK
+
+ 00000026  A1 00000046 R		mov EAX,sumcounter
+
+ 0000002B  BE 0000002A R		mov ESI, OFFSET massive
+ 00000030  B9 00000007			mov ECX, lengthof massive
+ 00000035			CYCLE2:
+ 00000035  8B 06			mov EAX, [ESI]
+ 00000037  83 C6 04			add ESI, type massive
+ 0000003A  83 F8 00			cmp EAX, 0	
+ 0000003D  74 04			jz EBXTOZERO
+ 0000003F  E2 F4			loop CYCLE2
+
+ 00000041  EB 05			jmp EndOfProgramm
+
+ 00000043			EBXTOZERO:
+ 00000043  BB 00000000		mov EBX,0
+
+ 00000048			EndOfProgramm: 
+
+ 00000048  6A 00			push 0													; код возврата процесса Windows(параметр ExitProcess)
+ 0000004A  E8 00000000 E		call ExitProcess										; так завершается любой процесс Windows
+ 0000004F			main ENDP													; конец процедуры
+							
+				end main													; конец модуля main
+Microsoft (R) Macro Assembler Version 14.29.30133.0	    10/18/22 16:32:33
+SE_Asm03.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+CONST  . . . . . . . . . . . . .	32 Bit	 00000000 Para	  Public  'CONST'	 ReadOnly
+FLAT . . . . . . . . . . . . . .	GROUP
+STACK  . . . . . . . . . . . . .	32 Bit	 00001000 Para	  Stack	  'STACK'	 
+_DATA  . . . . . . . . . . . . .	32 Bit	 0000004A Para	  Public  'DATA'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 0000004F Para	  Public  'CODE'	
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+ExitProcess  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 0000004F Public STDCALL
+  START  . . . . . . . . . . . .	L Near	 00000000 _TEXT	
+  MASSIVCHECK  . . . . . . . . .	L Near	 00000019 _TEXT	
+  CYCLE2 . . . . . . . . . . . .	L Near	 00000035 _TEXT	
+  EBXTOZERO  . . . . . . . . . .	L Near	 00000043 _TEXT	
+  EndOfProgramm  . . . . . . . .	L Near	 00000048 _TEXT	
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 00000000h   
+@DataSize  . . . . . . . . . . .	Number	 00000000h   
+@Interface . . . . . . . . . . .	Number	 00000003h   
+@Model . . . . . . . . . . . . .	Number	 00000007h   
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 FLAT
+@fardata?  . . . . . . . . . . .	Text   	 FLAT
+@fardata . . . . . . . . . . . .	Text   	 FLAT
+@stack . . . . . . . . . . . . .	Text   	 FLAT
+MB_OK  . . . . . . . . . . . . .	Number	 00000000h   
+massive  . . . . . . . . . . . .	DWord	 0000002A _DATA	
+myBytes  . . . . . . . . . . . .	Byte	 00000000 _DATA	
+myDoubles  . . . . . . . . . . .	DWord	 0000000E _DATA	
+myPointer  . . . . . . . . . . .	DWord	 00000026 _DATA	
+myWords  . . . . . . . . . . . .	Word	 00000004 _DATA	
+sumcounter . . . . . . . . . . .	DWord	 00000046 _DATA	
+
+	   0 Warnings
+	   0 Errors

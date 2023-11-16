@@ -1,0 +1,14 @@
+﻿Сборка начата 31.10.2022 17:34:13.
+Уровень детализации журнала: Normal.     1>Проект "E:\2курс лабы\assembler\ASM_Lab18\SE_Asm01\SE_Asm01.vcxproj" в узле 1 (целевые объекты Build).
+     1>E:\2курс лабы\assembler\ASM_Lab18\SE_Asm01\SE_Asm01.vcxproj : error MSB4025: не удалось загрузить файл проекта. Файл 'E:\2курс лабы\assembler\ASM_Lab18\SE_Asm01\SE_Asm01.vcxproj' не найден.
+     1>Сборка проекта "E:\2курс лабы\assembler\ASM_Lab18\SE_Asm01\SE_Asm01.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "E:\2курс лабы\assembler\ASM_Lab18\SE_Asm01\SE_Asm01.vcxproj" (целевой объект Build ) (1) ->
+         E:\2курс лабы\assembler\ASM_Lab18\SE_Asm01\SE_Asm01.vcxproj : error MSB4025: не удалось загрузить файл проекта. Файл 'E:\2курс лабы\assembler\ASM_Lab18\SE_Asm01\SE_Asm01.vcxproj' не найден.
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:00

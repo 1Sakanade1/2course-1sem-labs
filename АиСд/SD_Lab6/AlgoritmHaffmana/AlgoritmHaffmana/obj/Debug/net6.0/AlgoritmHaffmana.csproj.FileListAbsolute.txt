@@ -1,0 +1,30 @@
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\bin\Debug\net6.0\AlgoritmHaffmana.exe
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\bin\Debug\net6.0\AlgoritmHaffmana.deps.json
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\bin\Debug\net6.0\AlgoritmHaffmana.runtimeconfig.json
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\bin\Debug\net6.0\AlgoritmHaffmana.dll
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\bin\Debug\net6.0\AlgoritmHaffmana.pdb
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.AssemblyInfo.cs
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.dll
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\refint\AlgoritmHaffmana.dll
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.pdb
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.genruntimeconfig.cache
+C:\Users\37533\Desktop\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\ref\AlgoritmHaffmana.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\bin\Debug\net6.0\AlgoritmHaffmana.exe
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\bin\Debug\net6.0\AlgoritmHaffmana.deps.json
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\bin\Debug\net6.0\AlgoritmHaffmana.runtimeconfig.json
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\bin\Debug\net6.0\AlgoritmHaffmana.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\bin\Debug\net6.0\AlgoritmHaffmana.pdb
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.csproj.AssemblyReference.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.AssemblyInfoInputs.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.AssemblyInfo.cs
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.csproj.CoreCompileInputs.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\refint\AlgoritmHaffmana.dll
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.pdb
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\AlgoritmHaffmana.genruntimeconfig.cache
+C:\Container\code\2курс лабы\АиСд\SD_Lab6\AlgoritmHaffmana\AlgoritmHaffmana\obj\Debug\net6.0\ref\AlgoritmHaffmana.dll

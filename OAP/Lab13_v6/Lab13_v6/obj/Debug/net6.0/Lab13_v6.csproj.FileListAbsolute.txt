@@ -1,0 +1,15 @@
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\bin\Debug\net6.0\Lab13_v6.exe
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\bin\Debug\net6.0\Lab13_v6.deps.json
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\bin\Debug\net6.0\Lab13_v6.runtimeconfig.json
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\bin\Debug\net6.0\Lab13_v6.dll
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\bin\Debug\net6.0\Lab13_v6.pdb
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\obj\Debug\net6.0\Lab13_v6.csproj.AssemblyReference.cache
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\obj\Debug\net6.0\Lab13_v6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\obj\Debug\net6.0\Lab13_v6.AssemblyInfoInputs.cache
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\obj\Debug\net6.0\Lab13_v6.AssemblyInfo.cs
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\obj\Debug\net6.0\Lab13_v6.csproj.CoreCompileInputs.cache
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\obj\Debug\net6.0\Lab13_v6.dll
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\obj\Debug\net6.0\refint\Lab13_v6.dll
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\obj\Debug\net6.0\Lab13_v6.pdb
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\obj\Debug\net6.0\Lab13_v6.genruntimeconfig.cache
+C:\Container\code\2курс лабы\OAP\Lab13_v6\Lab13_v6\obj\Debug\net6.0\ref\Lab13_v6.dll
